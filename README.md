@@ -80,3 +80,4 @@
 </div>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+<source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/night.svg" />
