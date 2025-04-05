@@ -1,16 +1,14 @@
-name: Snake Animation
+name: Purple Snake Generator
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [ "main" ]
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
         
@@ -18,13 +16,12 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Frnaxx
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          color: '#8A2BE2'
+          outputs: github-contribution-grid-snake.svg
+          color: "#8A2BE2" # رنگ بنفش
+          direction: "b" # جهت مار
 
-      - name: Push to Repository
+      - name: Push to Output Branch
         uses: EndBug/[email protected]
         with:
-          committer_name: "Snake Bot"
-          committer_email: "[email protected]"
+          branch: "output"
+          message: "Update Purple Snake"
