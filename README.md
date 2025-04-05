@@ -71,19 +71,16 @@
 [![Follow](https://img.shields.io/badge/Follow%20@Frnaxx-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Frnaxx?tab=followers)
 ![](https://visitor-badge.glitch.me/badge?page_id=Frnaxx.Frnaxx&color=8A2BE2)
 
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=frnaxx&label=Profile+Views&color=8A2BE2&style=for-the-badge&labelColor=4B0082" alt="Profile views" />
+
 </div>
 
 ###
 
 <!-- Animated Heart -->
 <img src="https://raw.githubusercontent.com/Frnaxx/Frnaxx/main/.github/assets/purple-heart.gif" width="200">
-
-</div>
-
-<div align="center">
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=frnaxx&label=Profile+Views&color=8A2BE2&style=for-the-badge&labelColor=4B0082" alt="Profile views" />
 
 </div>
 
