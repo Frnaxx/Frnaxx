@@ -4,16 +4,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HI,%20I%20Am%20Mehrshad&fontSize=50&fontColor=ffffff&animation=fadeIn&gradient=linear-gradient(135deg,%20#8A2BE2%20,%20#9400D3))
 
-- uses: Platane/snk@v3
-  with:
-    github_user_name: ${{Frnaxx}}
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-</div>
-
 ###
 
 <div align="center">
