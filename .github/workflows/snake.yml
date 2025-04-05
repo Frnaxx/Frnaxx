@@ -9,7 +9,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-      contents: write
+    permissions:
+      contents: write  # دسترسی نوشتن
 
     steps:
       - name: Checkout
@@ -23,8 +24,8 @@ jobs:
           color: "#8A2BE2"
 
       - name: Push to Output
-        uses: EndBug/[email protected]
+        uses: EndBug/[email protected]  # اصلاح این خط
         with:
           branch: "output"
           message: "Update Snake Animation"
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}  # اصلاح این خط
