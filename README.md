@@ -2,10 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HI,%20I%20Am%20Mehrshad&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
-</div>
-
-###
-
 <div align="center">
 
 ### 🛠️ Tech Stack
