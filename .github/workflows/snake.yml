@@ -10,7 +10,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -20,8 +21,8 @@ jobs:
           color: "#8A2BE2" # رنگ بنفش
           direction: "b" # جهت مار
 
-      - name: Push to Output Branch
+      - name: Push to Output
         uses: EndBug/[email protected]
         with:
           branch: "output"
-          message: "Update Purple Snake"
+          message: "Update Snake Animation"
