@@ -60,7 +60,6 @@
 
 ### 🏆 Achievements
 
-<!-- GitHub Trophy -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=frnaxx&theme=onedark&column=7&margin-w=15&title=Stars,Commit,Issues,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Snake Animation -->
