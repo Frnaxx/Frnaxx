@@ -61,10 +61,14 @@
 ### 🏆 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=frnaxx&theme=onedark&column=7&margin-w=15&title=Stars,Commit,Issues,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- Snake Animation -->
-![Snake animation](https://raw.githubusercontent.com/Frnaxx/Frnaxx/refs/heads/main/.github/workflows/snake.yml)
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Follow+for+Awesome+Content%F0%9F%94%A5;Open-Source+Enthusiast%F0%9F%92%BB;Turning+Dreams+Into+Code%F0%9F%9A%80">
