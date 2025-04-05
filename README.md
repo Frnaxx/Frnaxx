@@ -62,7 +62,7 @@
 <div align="center">
 
 
-![Snake animation](https://github.com/Frnaxx/Frnaxx/blob/output/github-contribution-grid-snake-purple.svg)
+![Snake animation](https://github.com/Frnaxx/Frnaxx/blob/main/.github/workflows/main.yml)
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Welcome+to+My+github+profile;Follow+for+Amazing+Content%F0%9F%94%A5;Open-Source+Enthusiast%F0%9F%92%BB;Turning+Ideas+Into+Reality%F0%9F%9A%80">
