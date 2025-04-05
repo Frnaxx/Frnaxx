@@ -76,7 +76,7 @@
 ###
 
 <!-- Animated Heart -->
-<img src="https://github.com/Frnaxx/Frnaxx/raw/main/.github/assets/purple-heart.gif" width="200">
+<img src="https://raw.githubusercontent.com/Frnaxx/Frnaxx/main/.github/assets/purple-heart.gif" width="200">
 
 </div>
 
