@@ -4,6 +4,12 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HI,%20I%20Am%20Mehrshad&fontSize=50&fontColor=ffffff&animation=fadeIn&gradient=linear-gradient(135deg,%20#8A2BE2%20,%20#9400D3))
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 </div>
 
 ###
@@ -64,13 +70,6 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-<!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Follow+for+Awesome+Content%F0%9F%94%A5;Open-Source+Enthusiast%F0%9F%92%BB;Turning+Dreams+Into+Code%F0%9F%9A%80">
 
 <!-- Follow Section -->
