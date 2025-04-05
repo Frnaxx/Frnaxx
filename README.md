@@ -59,8 +59,31 @@
 <!-- GitHub Trophy -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=frnaxx&theme=onedark&column=7&margin-w=15&title=Stars,Commit,Issues,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- Purple Snake Animation -->
-![Snake animation](https://github.com/Frnaxx/Frnaxx/blob/main/snake.yml)
+<div align="center">
+
+<!-- انیمیشن مار بنفش -->
+![Snake animation](https://github.com/Frnaxx/Frnaxx/blob/output/github-contribution-grid-snake-purple.svg)
+
+<!-- هدر متحرک -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Welcome+to+My+Purple+Universe%F0%9F%92%9C;Follow+for+Amazing+Content%F0%9F%94%A5;Open-Source+Enthusiast%F0%9F%92%BB;Turning+Ideas+Into+Reality%F0%9F%9A%80">
+
+<!-- آیکون فالو جذاب -->
+[![Follow](https://img.shields.io/badge/Follow%20@Frnaxx-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Frnaxx?tab=followers)
+![](https://visitor-badge.glitch.me/badge?page_id=Frnaxx.Frnaxx&color=8A2BE2)
+
+</div>
+
+### ✨ **بیا با هم دنیا رو بنفش کنیم!**
+<div align="center">
+  
+"هر فالو یه قلم موی جدید تو نقاشی دیجیتالمه! 🎨  
+با هر استار یه قطعه کد به بهشت میره! 👼  
+بیا تو این سفر کدنویسی همراهیم کن 💜"
+
+<!-- انیمیشن قلب بنفش -->
+<img src="https://github.com/Frnaxx/Frnaxx/raw/main/.github/assets/purple-heart.gif" width="200">
+
+</div>
 
 </div>
 
