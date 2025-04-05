@@ -83,11 +83,3 @@
 <img src="https://raw.githubusercontent.com/Frnaxx/Frnaxx/main/.github/assets/purple-heart.gif" width="200">
 
 </div>
-
-<style>
-  :root {
-    --purple-primary: #8A2BE2;
-    --purple-secondary: #9400D3;
-    --purple-dark: #4B0082;
-  }
-</style>
