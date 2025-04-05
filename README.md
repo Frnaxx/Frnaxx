@@ -52,14 +52,13 @@
 <img src="https://github-readme-3d-contrib.vercel.app/api/top-langs/?username=frnaxx&theme=purple&layout=donut-3d" width="60%">
 
 <!-- Activity Graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=frnaxx&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=frnaxx&theme=react-dark&bg_color=2B0B43&color=9D4EDD&line=8A2BE2&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ###
 
 ### 🏆 Achievements
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=frnaxx&theme=onedark&column=7&margin-w=15&title=Stars,Commit,Issues,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Snake Animation -->
