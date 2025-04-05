@@ -50,6 +50,8 @@
 <!-- Activity Graph -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=frnaxx&theme=react-dark&bg_color=2B0B43&color=9D4EDD&line=8A2BE2&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![](./profile-3d-contrib/profile-night-view.svg)
+
 </div>
 
 ###
@@ -78,5 +80,3 @@
 <img src="https://raw.githubusercontent.com/Frnaxx/Frnaxx/main/.github/assets/purple-heart.gif" width="200">
 
 </div>
-
-![](./profile-3d-contrib/profile-green-animate.svg)
