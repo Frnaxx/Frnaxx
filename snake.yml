@@ -1,0 +1,23 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Frnaxx
+          svg_path: ./assets/github-snake.svg
+          color: '8A2BE2' # کد رنگ بنفش
+
+      - name: Push changes
+        uses: EndBug/[email protected]
