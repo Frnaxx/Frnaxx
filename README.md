@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- 3D Contribution Graph -->
-<img src="https://gh-contribution-3d.vercel.app/Frnaxx?chart=3dbar&palette=purple" width="100%">
+[![3D Contributions](https://github-contribution-3d.vercel.app/api?username=Frnaxx&color=8A2BE2&text_color=ffffff)](https://github.com/Frnaxx)
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HI,%20I%20Am%20Mehrshad&fontSize=50&fontColor=ffffff&animation=fadeIn&gradient=linear-gradient(135deg,%20#8A2BE2%20,%20#9400D3))
 
