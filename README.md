@@ -1,7 +1,5 @@
 <div align="center">
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HI,%20I%20Am%20Mehrshad&fontSize=50&fontColor=ffffff&animation=fadeIn&gradient=linear-gradient(135deg,%20#8A2BE2%20,%20#9400D3))
 
 ###
@@ -80,3 +78,5 @@
 <img src="https://raw.githubusercontent.com/Frnaxx/Frnaxx/main/.github/assets/purple-heart.gif" width="200">
 
 </div>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
