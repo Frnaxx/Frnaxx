@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D Contribution Graph -->
-<img src="https://github-profile-3d-contrib.vercel.app/view?username=frnaxx" width="100%">
+<img src="https://github-profile-3d-contrib.vercel.app/view?username=frnaxx&theme=purple" width="100%">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HI,%20I%20Am%20Mehrshad&fontSize=50&fontColor=ffffff&animation=fadeIn&gradient=linear-gradient(135deg,%20#8A2BE2%20,%20#9400D3))
 
@@ -60,7 +60,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=frnaxx&theme=onedark&column=7&margin-w=15&title=Stars,Commit,Issues,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Snake Animation -->
-![Snake animation](https://github.com/Frnaxx/Frnaxx/blob/output/github-contribution-grid-snake.svg?color=8A2BE2)
+![Snake animation](https://raw.githubusercontent.com/Frnaxx/Frnaxx/main/assets/github-snake.svg)
 
 <div align="center">
 
