@@ -60,7 +60,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=frnaxx&theme=onedark&column=7&margin-w=15&title=Stars,Commit,Issues,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Snake Animation -->
-![Snake animation](https://raw.githubusercontent.com/Frnaxx/Frnaxx/main/assets/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Frnaxx/Frnaxx/refs/heads/main/.github/workflows/snake.yml)
 
 <div align="center">
 
