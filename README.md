@@ -61,19 +61,18 @@
 
 <div align="center">
 
-<!-- انیمیشن مار بنفش -->
+
 ![Snake animation](https://github.com/Frnaxx/Frnaxx/blob/output/github-contribution-grid-snake-purple.svg)
 
-<!-- هدر متحرک -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Welcome+to+My+github+profile%F0%9F%92%9C;Follow+for+Amazing+Content%F0%9F%94%A5;Open-Source+Enthusiast%F0%9F%92%BB;Turning+Ideas+Into+Reality%F0%9F%9A%80">
 
-<!-- آیکون فالو جذاب -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Welcome+to+My+github+profile;Follow+for+Amazing+Content%F0%9F%94%A5;Open-Source+Enthusiast%F0%9F%92%BB;Turning+Ideas+Into+Reality%F0%9F%9A%80">
+
 [![Follow](https://img.shields.io/badge/Follow%20@Frnaxx-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Frnaxx?tab=followers)
 ![](https://visitor-badge.glitch.me/badge?page_id=Frnaxx.Frnaxx&color=8A2BE2)
 
 </div>
 
-<img src="https://github.com/Frnaxx/Frnaxx/raw/main/.github/assets/purple-heart.gif" width="200">
+<img src="[https://github.com/Frnaxx/Frnaxx/raw/main/.github/assets/purple-heart.gif](https://fonts.gstatic.com/s/e/notoemoji/latest/1f49c/512.webp)" width="200">
 
 </div>
 
