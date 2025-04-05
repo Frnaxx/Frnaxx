@@ -59,28 +59,30 @@
 <!-- GitHub Trophy -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=frnaxx&theme=onedark&column=7&margin-w=15&title=Stars,Commit,Issues,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!-- Snake Animation -->
+![Snake animation](https://github.com/Frnaxx/Frnaxx/blob/output/github-contribution-grid-snake.svg?color=8A2BE2)
+
 <div align="center">
 
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Follow+for+Awesome+Content%F0%9F%94%A5;Open-Source+Enthusiast%F0%9F%92%BB;Turning+Dreams+Into+Code%F0%9F%9A%80">
 
-![Snake animation](https://github.com/Frnaxx/Frnaxx/blob/main/.github/workflows/main.yml)
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Welcome+to+My+github+profile;Follow+for+Amazing+Content%F0%9F%94%A5;Open-Source+Enthusiast%F0%9F%92%BB;Turning+Ideas+Into+Reality%F0%9F%9A%80">
-
-</div>
-
-###
-
+<!-- Follow Section -->
 [![Follow](https://img.shields.io/badge/Follow%20@Frnaxx-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Frnaxx?tab=followers)
 ![](https://visitor-badge.glitch.me/badge?page_id=Frnaxx.Frnaxx&color=8A2BE2)
 
 </div>
 
-<img src="[https://github.com/Frnaxx/Frnaxx/raw/main/.github/assets/purple-heart.gif](https://fonts.gstatic.com/s/e/notoemoji/latest/1f49c/512.webp)" width="200">
+###
+
+<!-- Animated Heart -->
+<img src="https://github.com/Frnaxx/Frnaxx/raw/main/.github/assets/purple-heart.gif" width="200">
+
+</div>
 
 <div align="center">
 
-<!-- Purple View Counter -->
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=frnaxx&label=Profile+Views&color=8A2BE2&style=for-the-badge&labelColor=4B0082" alt="Profile views" />
 
 </div>
