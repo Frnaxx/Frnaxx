@@ -38,9 +38,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frnaxx&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frnaxx&layout=compact&langs_count=8&theme=synthwave"/>
 
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=frnaxx&theme=synthwave&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 <!-- Activity Graph -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=frnaxx&theme=react-dark&bg_color=2B0B43&color=9D4EDD&line=8A2BE2&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -60,7 +57,7 @@
 
 <!-- Follow Section -->
 [![Follow](https://img.shields.io/badge/Follow%20@Frnaxx-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Frnaxx?tab=followers)
-![](https://visitor-badge.glitch.me/badge?page_id=Frnaxx.Frnaxx&color=8A2BE2)
+
 
 <div align="center">
 
