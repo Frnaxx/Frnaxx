@@ -10,8 +10,8 @@
 
 #### Programming Languages
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120?logo=cshrp&logoColor=white&style=for-the-badge)](#)
-![Python](https://img.shields.io/badge/python-9400D3?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-4B0082?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### Web Development
 ![HTML5](https://img.shields.io/badge/html5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)
