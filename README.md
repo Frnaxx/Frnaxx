@@ -25,7 +25,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-8A2BE2?style=for-the-badge&logo=arduino&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-9400D3?style=for-the-badge&logo=blender&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-4B0082?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS](https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 </div>
 
