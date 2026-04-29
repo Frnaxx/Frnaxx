@@ -15,8 +15,8 @@
 [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff&style=for-the-badge)](#)
 
 #### Web Development
-![HTML5](https://img.shields.io/badge/html5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-9400D3?style=for-the-badge&logo=css3&logoColor=white)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)](#)
 ![JavaScript](https://img.shields.io/badge/javascript-4B0082?style=for-the-badge&logo=javascript&logoColor=white)
 
 #### Tools & Platforms
