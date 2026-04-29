@@ -9,7 +9,7 @@
 ### 🛠️ Tech Stack
 
 #### Programming Languages
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-9400D3?logo=cshrp&logoColor=white&style=for-the-badge)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-4B0082?logo=cshrp&logoColor=white&style=for-the-badge)](#)
 ![Python](https://img.shields.io/badge/python-9400D3?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-4B0082?style=for-the-badge&logo=openjdk&logoColor=white)
 
