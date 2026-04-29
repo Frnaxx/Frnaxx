@@ -23,7 +23,6 @@
 ![Linux](https://img.shields.io/badge/Linux-4B0082?style=for-the-badge&logo=linux&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-8A2BE2?style=for-the-badge&logo=arduino&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-9400D3?style=for-the-badge&logo=blender&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-4B0082?style=for-the-badge&logo=visualstudio&logoColor=white)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white&style=for-the-badge)](#)
 
 </div>
