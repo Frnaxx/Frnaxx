@@ -9,8 +9,7 @@
 ### 🛠️ Tech Stack
 
 #### Programming Languages
-![C](https://img.shields.io/badge/c-8A2BE2?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-8A2BE2?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c-8A2BE2?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-9400D3?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-4B0082?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -18,13 +17,13 @@
 ![HTML5](https://img.shields.io/badge/html5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-9400D3?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-4B0082?style=for-the-badge&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-9400D3?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-4B0082?style=for-the-badge&logo=linux&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-8A2BE2?style=for-the-badge&logo=arduino&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-9400D3?style=for-the-badge&logo=blender&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Blender-9400D3?style=for-the-badge&logo=blender&logoColor=white)
 
 </div>
 
