@@ -20,8 +20,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](#)
 
 #### Tools & Platforms
-![Git](https://img.shields.io/badge/git-9400D3?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-4B0082?style=for-the-badge&logo=linux&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 ![Arduino](https://img.shields.io/badge/Arduino-8A2BE2?style=for-the-badge&logo=arduino&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-9400D3?style=for-the-badge&logo=blender&logoColor=white)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white&style=for-the-badge)](#)
