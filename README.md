@@ -10,7 +10,7 @@
 
 #### Programming Languages
 ![C#](https://img.shields.io/badge/c%23-9400D3?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-9400D3?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/python-9400D3?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-4B0082?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -24,8 +24,7 @@
 ![Linux](https://img.shields.io/badge/Linux-4B0082?style=for-the-badge&logo=linux&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-8A2BE2?style=for-the-badge&logo=arduino&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-9400D3?style=for-the-badge&logo=blender&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-4B0082?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-4B0082?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 </div>
 
